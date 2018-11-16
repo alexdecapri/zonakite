@@ -78,3 +78,9 @@
   opacity: .6;
   z-index: 2;
 }
+
+.reasons {
+  color: black;
+  font-size: 48px;
+  margin: 0 auto;
+}
