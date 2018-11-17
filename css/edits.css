@@ -91,6 +91,8 @@
 
 .projects-section .featured-text-rt {
   padding: 2rem;
+  clear: both;
+
 }
 
 @media (min-width: 992px) {
@@ -100,6 +102,12 @@
   }
 }
 
+.featured-text-rt {
+  float: left;
+}
+
 .img-adjust-rt {
-  align: right;
+  /* align: left; */
+  float: right;
+  clear: left;
 }
