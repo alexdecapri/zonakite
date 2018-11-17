@@ -148,3 +148,32 @@
 .card {
   border: none;
 }
+
+.package-container {
+  padding-top: 40px;
+}
+
+.package-container h1 {
+  margin-bottom: 30px;
+}
+
+.card {
+  margin-bottom: 40px
+}
+
+.whatsapp-img {
+  height: 7rem;
+}
+
+.whatsapp {
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.whatsapp-text {
+  padding-left: 20px;
+}
+
+.whatsapp-text p {
+  font-size: 1.5rem;
+}
