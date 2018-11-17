@@ -21,12 +21,16 @@
   display: block;
 }
 
-.vid-section > button {
+.vid-section a button {
   text-align: center;
   z-index: 3;
   margin-top: 8rem;
   opacity: .75;
   border-radius: 30px;
+}
+
+.vid-section a {
+  z-index: 3;
 }
 
 .vid-container {
@@ -87,6 +91,10 @@
 
 .fa-whatsapp {
   font-size: 48px;
+}
+
+.projects-section {
+  margin-top: -120px;
 }
 
 .projects-section .featured-text-rt {
@@ -151,6 +159,7 @@
 
 .package-container {
   padding-top: 40px;
+  padding-bottom: 30px;
 }
 
 .package-container h1 {
