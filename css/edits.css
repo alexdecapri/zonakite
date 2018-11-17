@@ -140,3 +140,11 @@
     transform: translateY(-15px);
   }
 }
+
+.custom-icon {
+  height: 10rem;
+}
+
+.card {
+  border: none;
+}
