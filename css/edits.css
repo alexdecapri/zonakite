@@ -187,6 +187,20 @@
 }
 
 
-.panel-body {
+/* .panel-body {
   background-color: white;
+} */
+
+#faq {
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+
+.panel {
+  padding-bottom: 12px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
