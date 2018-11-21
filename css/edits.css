@@ -95,6 +95,7 @@
 
 .projects-section {
   margin-top: -120px;
+  padding-bottom: 40px;
 }
 
 .projects-section .featured-text-rt {
@@ -153,10 +154,6 @@
   height: 10rem;
 }
 
-.card {
-  border: none;
-}
-
 .package-container {
   padding-top: 40px;
   padding-bottom: 30px;
@@ -166,13 +163,15 @@
   margin-bottom: 30px;
 }
 
-.card {
-  margin-bottom: 40px
+.card-reasons {
+  margin-bottom: 40px;
+  border: none;
 }
 
 .whatsapp-img {
   height: 7rem;
 }
+
 
 .whatsapp {
   padding-right: 20px;
@@ -185,4 +184,9 @@
 
 .whatsapp-text p {
   font-size: 1.5rem;
+}
+
+
+.panel-body {
+  background-color: white;
 }
