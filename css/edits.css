@@ -204,3 +204,10 @@
     float: none;
     margin: 0 auto;
 }
+
+.footer-custom {
+  height: 70px;
+  width: 100%;
+  background-color: black;
+  padding-top: 10px;
+}
