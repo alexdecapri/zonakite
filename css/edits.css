@@ -211,3 +211,12 @@
   background-color: black;
   padding-top: 10px;
 }
+
+.language-icon {
+  height: 20px;
+}
+
+
+.languages img {
+  padding-left: 5px;
+}
