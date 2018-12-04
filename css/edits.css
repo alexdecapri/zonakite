@@ -220,3 +220,7 @@
 .languages img {
   padding-left: 5px;
 }
+
+.languages {
+  justify-content: flex-end;
+}
