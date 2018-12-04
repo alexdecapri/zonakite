@@ -61,27 +61,27 @@
   z-index: 1;
 }
 
-.gif {
+/* .gif {
   display: block;
   position: absolute;
   z-index: 1;
-}
+} */
 
 @media screen and (max-aspect-ratio: 1920/1080) {
   .video-container > video {
     height: 100%;
   }
-  .gif {
+  /* .gif {
     height: 100%;
-  }
+  } */
 }
 @media screen and (min-aspect-ratio: 1920/1080) {
   .video-container > video {
     width: 100%;
   }
-  .gif {
+  /* .gif {
     width: 100%;
-  }
+  } */
 }
 
 .color-overlay {
@@ -237,7 +237,7 @@
   justify-content: flex-end;
 }
 
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
   .vid-container video {
     display: none !important;
   }
@@ -248,4 +248,4 @@
     display: none !important;
 
   }
-}
+} */
