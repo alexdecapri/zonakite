@@ -234,6 +234,11 @@
   margin-bottom: 2px;
 }
 
+.nav-link {
+  float: right;
+  margin-right: 8px;;
+}
+
 /* .languages {
   justify-content: flex-end;
 } */
