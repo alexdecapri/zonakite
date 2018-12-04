@@ -230,12 +230,18 @@
 
 
 .languages img {
-  padding-left: 5px;
+  margin-left: 5px;
+  margin-bottom: 2px;
 }
 
-.languages {
-  justify-content: flex-end;
+.nav-link {
+  float: right;
+  margin-right: 8px;;
 }
+
+/* .languages {
+  justify-content: flex-end;
+} */
 
 /* @media only screen and (max-width: 480px) {
   .vid-container video {
